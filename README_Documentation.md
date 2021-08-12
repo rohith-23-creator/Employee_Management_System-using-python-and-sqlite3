@@ -16,9 +16,9 @@ Employee Management System using Python Tkinter module and Sqlite3
 
 ## Software used 
 
-|        UI         |  
-|  ---------------  |
-|   Tkinter Module  |
+|        UI         | DataBase | Programming Language |
+|  ---------------  | -------- | -------------------- |
+|   Tkinter Module  | Sqlite3  | Python version 3.9   |
 
 
 
