@@ -14,5 +14,11 @@ Employee Management System using Python Tkinter module and Sqlite3
 | 1                           | Employee 1     | Employee1 age |  Emp1 DepartmentId  |  Department1 Name  | 
 | 2                           | Employee 2     | Employee2 age |  Emp2 DepartmentId  |  Department2 Name  |
 
+## Software used 
+
+|     UI        |
+|   Database    |
+|     OS       |
+
 
 
