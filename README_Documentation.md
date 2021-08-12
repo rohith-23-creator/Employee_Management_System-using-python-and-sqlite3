@@ -44,8 +44,7 @@ Employee Management System using Python Tkinter module and Sqlite3
    2. [Python Official Documentation](https://docs.python.org/)
    3. [Real Python](https://realpython.com/python3-object-oriented-programming/) 
 
-## Cloning git repo 
-       ```
-       git clone --branch <branchname> <remote-repo-url>    (or)
-       ```
- 
+Git commands for cloning the repo:
+```
+git clone --branch <branchname> <remote-repo-url>
+```
