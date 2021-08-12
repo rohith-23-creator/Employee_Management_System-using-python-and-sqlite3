@@ -31,6 +31,13 @@ Employee Management System using Python Tkinter module and Sqlite3
    - Whereas the Employee id is auto incrementing and unique to all employees.
    - We also able to search and sort the employee from database. 
 
+## Concepts Covered in this Project 
+
+   - Object Oriented Programming in python.
+   - Tkinter module
+   - Sqlite3 Database connectivity with python
+   
+
 ## Reference 
 
    1. [Google](https://google.com/).
