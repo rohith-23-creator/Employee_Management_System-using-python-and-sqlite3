@@ -16,9 +16,10 @@ Employee Management System using Python Tkinter module and Sqlite3
 
 ## Software used 
 
+|  ------------ |
 |     UI        |
 |   Database    |
-|     OS       |
+|     OS        |
 
 
 
