@@ -47,10 +47,7 @@ Employee Management System using Python Tkinter module and Sqlite3
 ## Cloning git repo :
        
        ```
-         git clone --branch <branchname> <remote-repo-url>
+         git clone --branch <branchname> <remote-repo-url>    (or)
+       
        ```
-            or
-        ```
-         git clone --branch <branchname> --single-branch <remote-repo-url>
-        ```
  
