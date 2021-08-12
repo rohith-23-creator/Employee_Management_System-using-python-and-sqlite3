@@ -20,5 +20,17 @@ Employee Management System using Python Tkinter module and Sqlite3
 |  ---------------  | -------- | -------------------- |
 |   Tkinter Module  | Sqlite3  | Python version 3.9   |
 
+## More About this project 
 
+   - Object oriented programming (Classes and Objects) is used for getting the user input for entering the employee details .
+   - User will be interacting with the graphical user interface created using Tkinter Module python.
+   - User will be able to add Employee name , age , Department id , Department Name.
+   - Whereas the Employee id is auto incrementing and unique to all employees.
+   - We also able to search and sort the employee from database. 
+
+## Reference 
+
+   1. [Google](https://google.com/).
+   2. [Python Official Documentation](https://docs.python.org/)
+   3. [Real Python](https://realpython.com/python3-object-oriented-programming/) 
 
